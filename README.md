@@ -86,6 +86,11 @@ print(response.text);
 * 左边显示Gemini消息，右边显示用户消息
 * 增加判断条件(如isUser)，依次渲染消息发送方和接收方
 
+## 六 依赖库
+
+* [google_generative_ai ](https://pub-web.flutter-io.cn/packages/google_generative_ai)
+* [image_picker](https://pub-web.flutter-io.cn/packages/image_picker)
+
 
 
 
